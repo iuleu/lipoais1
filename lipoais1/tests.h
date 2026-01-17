@@ -5,6 +5,8 @@
 
 // asdasasd
 
+// 1111
+
 bool RunAllTests();
 
 #endif
