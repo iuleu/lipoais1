@@ -7,6 +7,8 @@
 
 // 1111
 
+// test
+
 bool RunAllTests();
 
 #endif
