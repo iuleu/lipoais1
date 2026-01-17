@@ -3,6 +3,8 @@
 
 // asdasd
 
+// asdasasd
+
 bool RunAllTests();
 
 #endif
