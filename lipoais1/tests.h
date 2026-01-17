@@ -9,6 +9,8 @@
 
 // test
 
+// asdad
+
 bool RunAllTests();
 
 #endif
